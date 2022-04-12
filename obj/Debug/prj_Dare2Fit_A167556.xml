@@ -1,0 +1,281 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prj_Dare2Fit_A167556
+</name>
+</assembly>
+<members>
+<member name="T:prj_Dare2Fit_A167556.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources._172f12c944f12917344cbde8e7fec9e2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources._2018_quatrefoil_background_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources._3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources._4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources._5a22f66ee219b4_3229652415122407509261">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.a51b678ea8702c8b4e53b8bdc4908156">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.back">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.boy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.call_center">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.close_icon_png_19">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.depositphotos_106802428_stock_illustration_cute_seamless_pattern_or_texture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.dumbbell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.elegant_white_background_with_shiny_lines_1017_17580">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.fitness">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.fitness1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.flat_800x800_070_f_u1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.fundo_elegante_padrao_de_linha_hexagonal_1017_19742">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.giphy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.giphy__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.giphy__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.giphy__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.giphy__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.giphy__3_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.giphy__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.giphy__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.giphy__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.giphy__8_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.giphy__9_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.gym">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.heart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.heart__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.kisspng_black_and_white_pattern_speech_bubble_5a7553b2455be4_3472391915176385782841">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.measure">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.muscle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.output_onlinepngtools">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.output_onlinepngtools__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.output_onlinepngtools__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.output_onlinepngtools__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.output_onlinepngtools__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.output_onlinepngtools__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.output_onlinepngtools__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.output_onlinepngtools__7_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.s_l300">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.shop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.shopping_cart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.stationary_bike">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.wave_textures_cream_background_vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Dare2Fit_A167556.My.Resources.Resources.wave_textures_white_background_vector_53876_60286">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
